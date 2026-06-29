@@ -229,23 +229,21 @@ Return to Main Screen
 
 ## 📸 Demonstration
 
-You can add:
-
 - Circuit Diagram
-- Proteus Simulation Screenshot
+  <img width="1272" height="882" alt="Screenshot 2026-06-29 185734" src="https://github.com/user-attachments/assets/0fbf9ec8-132a-411f-a3d0-205dbf0232e6" />
 - LCD Output Images
+ <img width="1260" height="885" alt="Screenshot 2026-06-29 190043" src="https://github.com/user-attachments/assets/8053ddb2-09fe-450b-99ff-8c9bf3993600" />
 - Password Authentication Demo
+  <img width="1282" height="890" alt="Screenshot 2026-06-29 190254" src="https://github.com/user-attachments/assets/5ac36613-848f-45c6-b15c-8676bf9939af" />
 - RTC Editing Menu
-
-inside the `Images/` folder.
-
+<img width="1271" height="890" alt="Screenshot 2026-06-29 190454" src="https://github.com/user-attachments/assets/0b4ec898-a54f-47fb-8c5f-0872d69e29a2" />
 ---
 
 ## 👨‍💻 Author
 
 **Nayeni Tagore**
 
-Embedded Firmware Engineer
+Aspiring Embedded Firmware Engineer
 
 ### Skills
 
