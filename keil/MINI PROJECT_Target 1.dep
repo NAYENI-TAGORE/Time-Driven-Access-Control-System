@@ -1,0 +1,33 @@
+Dependencies for Project 'MINI PROJECT', Target 'Target 1': (DO NOT MODIFY !)
+F (.\Startup.s)(0x532C14EA)(--cpu ARM7TDMI --pd "__EVAL SETA 1" -g --apcs=interwork -I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-I C:\Keil_v5\ARM\Inc\Philips--list .\startup.lst --xref -o .\startup.o --depend .\startup.d)
+F (..\main.c)(0x6A411E9D)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-I C:\Keil_v5\ARM\Inc\Philips-o .\main.o --omf_browse .\main.crf --depend .\main.d)
+I (C:\Keil_v5\ARM\Inc\Philips\lpc21xx.h)(0x532C1500)
+I (..\delay.h)(0x68646701)
+I (..\types.h)(0x6A3C1FA8)
+I (..\kpm.h)(0x6A3C536B)
+I (..\kpm_defines.h)(0x68646701)
+I (..\lcd.h)(0x68646701)
+I (..\lcd_defines.h)(0x68646701)
+I (..\rtc.h)(0x6A3FABE8)
+I (..\rtc_defines.h)(0x68646700)
+I (..\uart_defines.h)(0x680C7063)
+I (..\interrupts.h)(0x6A41019D)
+F (..\delay.c)(0x68777B9C)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-I C:\Keil_v5\ARM\Inc\Philips-o .\delay.o --omf_browse .\delay.crf --depend .\delay.d)
+I (..\types.h)(0x6A3C1FA8)
+F (..\my_kpm.c)(0x6A40EC30)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-I C:\Keil_v5\ARM\Inc\Philips-o .\my_kpm.o --omf_browse .\my_kpm.crf --depend .\my_kpm.d)
+I (C:\Keil_v5\ARM\Inc\Philips\lpc21xx.h)(0x532C1500)
+I (..\types.h)(0x6A3C1FA8)
+I (..\lcd.h)(0x68646701)
+I (..\lcd_defines.h)(0x68646701)
+I (..\delay.h)(0x68646701)
+F (..\my_lcd.c)(0x6A3C231A)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-I C:\Keil_v5\ARM\Inc\Philips-o .\my_lcd.o --omf_browse .\my_lcd.crf --depend .\my_lcd.d)
+I (C:\Keil_v5\ARM\Inc\Philips\lpc21xx.h)(0x532C1500)
+I (..\delay.h)(0x68646701)
+I (..\types.h)(0x6A3C1FA8)
+I (..\lcd_defines.h)(0x68646701)
+F (..\my_interrupt.c)(0x6A411E81)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-I C:\Keil_v5\ARM\Inc\Philips-o .\my_interrupt.o --omf_browse .\my_interrupt.crf --depend .\my_interrupt.d)
+I (C:\Keil_v5\ARM\Inc\Philips\lpc21xx.h)(0x532C1500)
+I (..\delay.h)(0x68646701)
+I (..\types.h)(0x6A3C1FA8)
+I (..\lcd.h)(0x68646701)
+I (..\lcd_defines.h)(0x68646701)

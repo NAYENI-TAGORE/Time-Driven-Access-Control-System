@@ -1,0 +1,16 @@
+.\main.o: ..\main.c
+.\main.o: C:\Keil_v5\ARM\Inc\Philips\lpc21xx.h
+.\main.o: ..\delay.h
+.\main.o: ..\types.h
+.\main.o: ..\kpm.h
+.\main.o: ..\types.h
+.\main.o: ..\kpm_defines.h
+.\main.o: ..\lcd.h
+.\main.o: ..\types.h
+.\main.o: ..\lcd_defines.h
+.\main.o: ..\rtc.h
+.\main.o: ..\types.h
+.\main.o: ..\rtc_defines.h
+.\main.o: ..\types.h
+.\main.o: ..\uart_defines.h
+.\main.o: ..\interrupts.h

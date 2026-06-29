@@ -1,0 +1,9 @@
+--cpu ARM7TDMI
+".\startup.o"
+".\delay.o"
+".\my_interrupt.o"
+".\my_lcd.o"
+--strict --scatter ".\interrupt.sct"
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\interrupt.map" -o .\interrupt.axf

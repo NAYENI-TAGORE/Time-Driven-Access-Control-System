@@ -1,0 +1,15 @@
+Dependencies for Project 'lpc2124', Target 'Target 1': (DO NOT MODIFY !)
+F (.\Startup.s)(0x532C14EA)(--cpu ARM7TDMI --pd "__EVAL SETA 1" -g --apcs=interwork -I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-I C:\Keil_v5\ARM\Inc\Philips--list .\startup.lst --xref -o .\startup.o --depend .\startup.d)
+F (.\keypad driver codes\delay.c)(0x68777B9C)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-I C:\Keil_v5\ARM\Inc\Philips-o .\delay.o --omf_browse .\delay.crf --depend .\delay.d)
+I (keypad driver codes\types.h)(0x67AC5C23)
+F (..\my_interrupt.c)(0x6A411B16)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-I C:\Keil_v5\ARM\Inc\Philips-o .\my_interrupt.o --omf_browse .\my_interrupt.crf --depend .\my_interrupt.d)
+I (C:\Keil_v5\ARM\Inc\Philips\lpc21xx.h)(0x532C1500)
+I (..\delay.h)(0x68646701)
+I (..\types.h)(0x6A3C1FA8)
+I (..\lcd.h)(0x68646701)
+I (..\lcd_defines.h)(0x68646701)
+F (..\my_lcd.c)(0x6A3C231A)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-I C:\Keil_v5\ARM\Inc\Philips-o .\my_lcd.o --omf_browse .\my_lcd.crf --depend .\my_lcd.d)
+I (C:\Keil_v5\ARM\Inc\Philips\lpc21xx.h)(0x532C1500)
+I (..\delay.h)(0x68646701)
+I (..\types.h)(0x6A3C1FA8)
+I (..\lcd_defines.h)(0x68646701)
